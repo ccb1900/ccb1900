@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ccb1900&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ccb1900&theme=vue&utcOffset=8)
 [![ccb1900's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccb1900)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ccb1900&repo=redisbygo)](https://github.com/ccb1900/redisbygo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccb1900)](https://github.com/ccb1900)
